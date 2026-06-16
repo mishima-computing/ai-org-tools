@@ -1,0 +1,25 @@
+name: ci
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  tools:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: graphicist self-test (the ladder runs)
+        run: python tools/graphicist/graphicist.py
+      - name: registry is valid YAML and lists entrypoints that exist
+        run: |
+          python - <<'PY'
+          import re, pathlib, sys
+          txt = pathlib.Path("registry/tools.yaml").read_text(encoding="utf-8")
+          eps = re.findall(r"entrypoint:\s*([^\s:]+)::", txt)
+          missing = [e for e in eps if not pathlib.Path(e).exists()]
+          assert not missing, f"registry entrypoints missing: {missing}"
+          print("registry ok:", eps)
+          PY
