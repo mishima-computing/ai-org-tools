@@ -1,0 +1,1777 @@
+[
+ {
+  "id": "kenney-isometric-roads/beach",
+  "tags": [
+   "beach"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/beach.png"
+ },
+ {
+  "id": "kenney-isometric-roads/beachCornerES",
+  "tags": [
+   "beach",
+   "corner",
+   "es"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/beachCornerES.png"
+ },
+ {
+  "id": "kenney-isometric-roads/beachCornerNE",
+  "tags": [
+   "beach",
+   "corner",
+   "ne"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/beachCornerNE.png"
+ },
+ {
+  "id": "kenney-isometric-roads/beachCornerNW",
+  "tags": [
+   "beach",
+   "corner",
+   "nw"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/beachCornerNW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/beachCornerSW",
+  "tags": [
+   "beach",
+   "corner",
+   "sw"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/beachCornerSW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/beachE",
+  "tags": [
+   "beach"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/beachE.png"
+ },
+ {
+  "id": "kenney-isometric-roads/beachES",
+  "tags": [
+   "beach",
+   "es"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/beachES.png"
+ },
+ {
+  "id": "kenney-isometric-roads/beachN",
+  "tags": [
+   "beach"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/beachN.png"
+ },
+ {
+  "id": "kenney-isometric-roads/beachNE",
+  "tags": [
+   "beach",
+   "ne"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/beachNE.png"
+ },
+ {
+  "id": "kenney-isometric-roads/beachNW",
+  "tags": [
+   "beach",
+   "nw"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/beachNW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/beachS",
+  "tags": [
+   "beach"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/beachS.png"
+ },
+ {
+  "id": "kenney-isometric-roads/beachSW",
+  "tags": [
+   "beach",
+   "sw"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/beachSW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/beachW",
+  "tags": [
+   "beach"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/beachW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/bridgeEW",
+  "tags": [
+   "bridge",
+   "ew"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/bridgeEW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/bridgeNS",
+  "tags": [
+   "bridge",
+   "ns"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/bridgeNS.png"
+ },
+ {
+  "id": "kenney-isometric-roads/coniferAltShort",
+  "tags": [
+   "alt",
+   "conifer",
+   "short"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/coniferAltShort.png"
+ },
+ {
+  "id": "kenney-isometric-roads/coniferAltTall",
+  "tags": [
+   "alt",
+   "conifer",
+   "tall"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/coniferAltTall.png"
+ },
+ {
+  "id": "kenney-isometric-roads/coniferShort",
+  "tags": [
+   "conifer",
+   "short"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/coniferShort.png"
+ },
+ {
+  "id": "kenney-isometric-roads/coniferTall",
+  "tags": [
+   "conifer",
+   "tall"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/coniferTall.png"
+ },
+ {
+  "id": "kenney-isometric-roads/crossroad",
+  "tags": [
+   "crossroad"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/crossroad.png"
+ },
+ {
+  "id": "kenney-isometric-roads/crossroadESW",
+  "tags": [
+   "crossroad",
+   "esw"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/crossroadESW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/crossroadNES",
+  "tags": [
+   "crossroad",
+   "nes"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/crossroadNES.png"
+ },
+ {
+  "id": "kenney-isometric-roads/crossroadNEW",
+  "tags": [
+   "crossroad",
+   "new"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/crossroadNEW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/crossroadNSW",
+  "tags": [
+   "crossroad",
+   "nsw"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/crossroadNSW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/dirt",
+  "tags": [
+   "dirt"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/dirt.png"
+ },
+ {
+  "id": "kenney-isometric-roads/dirtDouble",
+  "tags": [
+   "dirt",
+   "double"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/dirtDouble.png"
+ },
+ {
+  "id": "kenney-isometric-roads/endE",
+  "tags": [
+   "end"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/endE.png"
+ },
+ {
+  "id": "kenney-isometric-roads/endN",
+  "tags": [
+   "end"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/endN.png"
+ },
+ {
+  "id": "kenney-isometric-roads/endS",
+  "tags": [
+   "end"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/endS.png"
+ },
+ {
+  "id": "kenney-isometric-roads/endW",
+  "tags": [
+   "end"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/endW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/exitE",
+  "tags": [
+   "exit"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/exitE.png"
+ },
+ {
+  "id": "kenney-isometric-roads/exitN",
+  "tags": [
+   "exit"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/exitN.png"
+ },
+ {
+  "id": "kenney-isometric-roads/exitS",
+  "tags": [
+   "exit"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/exitS.png"
+ },
+ {
+  "id": "kenney-isometric-roads/exitW",
+  "tags": [
+   "exit"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/exitW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/grass",
+  "tags": [
+   "grass"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/grass.png"
+ },
+ {
+  "id": "kenney-isometric-roads/grassWhole",
+  "tags": [
+   "grass",
+   "whole"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/grassWhole.png"
+ },
+ {
+  "id": "kenney-isometric-roads/hillE",
+  "tags": [
+   "hill"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/hillE.png"
+ },
+ {
+  "id": "kenney-isometric-roads/hillES",
+  "tags": [
+   "es",
+   "hill"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/hillES.png"
+ },
+ {
+  "id": "kenney-isometric-roads/hillN",
+  "tags": [
+   "hill"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/hillN.png"
+ },
+ {
+  "id": "kenney-isometric-roads/hillNE",
+  "tags": [
+   "hill",
+   "ne"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/hillNE.png"
+ },
+ {
+  "id": "kenney-isometric-roads/hillNW",
+  "tags": [
+   "hill",
+   "nw"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/hillNW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/hillS",
+  "tags": [
+   "hill"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/hillS.png"
+ },
+ {
+  "id": "kenney-isometric-roads/hillSW",
+  "tags": [
+   "hill",
+   "sw"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/hillSW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/hillW",
+  "tags": [
+   "hill"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/hillW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/lotE",
+  "tags": [
+   "lot"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/lotE.png"
+ },
+ {
+  "id": "kenney-isometric-roads/lotES",
+  "tags": [
+   "es",
+   "lot"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/lotES.png"
+ },
+ {
+  "id": "kenney-isometric-roads/lotN",
+  "tags": [
+   "lot"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/lotN.png"
+ },
+ {
+  "id": "kenney-isometric-roads/lotNE",
+  "tags": [
+   "lot",
+   "ne"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/lotNE.png"
+ },
+ {
+  "id": "kenney-isometric-roads/lotNW",
+  "tags": [
+   "lot",
+   "nw"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/lotNW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/lotS",
+  "tags": [
+   "lot"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/lotS.png"
+ },
+ {
+  "id": "kenney-isometric-roads/lotSW",
+  "tags": [
+   "lot",
+   "sw"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/lotSW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/lotW",
+  "tags": [
+   "lot"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/lotW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/riverBankedES",
+  "tags": [
+   "banked",
+   "es",
+   "river"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/riverBankedES.png"
+ },
+ {
+  "id": "kenney-isometric-roads/riverBankedEW",
+  "tags": [
+   "banked",
+   "ew",
+   "river"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/riverBankedEW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/riverBankedNE",
+  "tags": [
+   "banked",
+   "ne",
+   "river"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/riverBankedNE.png"
+ },
+ {
+  "id": "kenney-isometric-roads/riverBankedNS",
+  "tags": [
+   "banked",
+   "ns",
+   "river"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/riverBankedNS.png"
+ },
+ {
+  "id": "kenney-isometric-roads/riverBankedNW",
+  "tags": [
+   "banked",
+   "nw",
+   "river"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/riverBankedNW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/riverBankedSW",
+  "tags": [
+   "banked",
+   "river",
+   "sw"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/riverBankedSW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/riverES",
+  "tags": [
+   "es",
+   "river"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/riverES.png"
+ },
+ {
+  "id": "kenney-isometric-roads/riverEW",
+  "tags": [
+   "ew",
+   "river"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/riverEW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/riverNE",
+  "tags": [
+   "ne",
+   "river"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/riverNE.png"
+ },
+ {
+  "id": "kenney-isometric-roads/riverNS",
+  "tags": [
+   "ns",
+   "river"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/riverNS.png"
+ },
+ {
+  "id": "kenney-isometric-roads/riverNW",
+  "tags": [
+   "nw",
+   "river"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/riverNW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/riverSW",
+  "tags": [
+   "river",
+   "sw"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/riverSW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/road",
+  "tags": [
+   "road"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/road.png"
+ },
+ {
+  "id": "kenney-isometric-roads/roadES",
+  "tags": [
+   "es",
+   "road"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/roadES.png"
+ },
+ {
+  "id": "kenney-isometric-roads/roadEW",
+  "tags": [
+   "ew",
+   "road"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/roadEW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/roadHill2E",
+  "tags": [
+   "hill",
+   "road"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/roadHill2E.png"
+ },
+ {
+  "id": "kenney-isometric-roads/roadHill2N",
+  "tags": [
+   "hill",
+   "road"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/roadHill2N.png"
+ },
+ {
+  "id": "kenney-isometric-roads/roadHill2S",
+  "tags": [
+   "hill",
+   "road"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/roadHill2S.png"
+ },
+ {
+  "id": "kenney-isometric-roads/roadHill2W",
+  "tags": [
+   "hill",
+   "road"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/roadHill2W.png"
+ },
+ {
+  "id": "kenney-isometric-roads/roadHillE",
+  "tags": [
+   "hill",
+   "road"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/roadHillE.png"
+ },
+ {
+  "id": "kenney-isometric-roads/roadHillN",
+  "tags": [
+   "hill",
+   "road"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/roadHillN.png"
+ },
+ {
+  "id": "kenney-isometric-roads/roadHillS",
+  "tags": [
+   "hill",
+   "road"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/roadHillS.png"
+ },
+ {
+  "id": "kenney-isometric-roads/roadHillW",
+  "tags": [
+   "hill",
+   "road"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/roadHillW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/roadNE",
+  "tags": [
+   "ne",
+   "road"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/roadNE.png"
+ },
+ {
+  "id": "kenney-isometric-roads/roadNS",
+  "tags": [
+   "ns",
+   "road"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/roadNS.png"
+ },
+ {
+  "id": "kenney-isometric-roads/roadNW",
+  "tags": [
+   "nw",
+   "road"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/roadNW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/roadSW",
+  "tags": [
+   "road",
+   "sw"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/roadSW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/treeAltShort",
+  "tags": [
+   "alt",
+   "short",
+   "tree"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/treeAltShort.png"
+ },
+ {
+  "id": "kenney-isometric-roads/treeAltTall",
+  "tags": [
+   "alt",
+   "tall",
+   "tree"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/treeAltTall.png"
+ },
+ {
+  "id": "kenney-isometric-roads/treeShort",
+  "tags": [
+   "short",
+   "tree"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/treeShort.png"
+ },
+ {
+  "id": "kenney-isometric-roads/treeTall",
+  "tags": [
+   "tall",
+   "tree"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/treeTall.png"
+ },
+ {
+  "id": "kenney-isometric-roads/water",
+  "tags": [
+   "water"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/water.png"
+ },
+ {
+  "id": "kenney-isometric-roads/waterCornerES",
+  "tags": [
+   "corner",
+   "es",
+   "water"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/waterCornerES.png"
+ },
+ {
+  "id": "kenney-isometric-roads/waterCornerNE",
+  "tags": [
+   "corner",
+   "ne",
+   "water"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/waterCornerNE.png"
+ },
+ {
+  "id": "kenney-isometric-roads/waterCornerNW",
+  "tags": [
+   "corner",
+   "nw",
+   "water"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/waterCornerNW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/waterCornerSW",
+  "tags": [
+   "corner",
+   "sw",
+   "water"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/waterCornerSW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/waterE",
+  "tags": [
+   "water"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/waterE.png"
+ },
+ {
+  "id": "kenney-isometric-roads/waterES",
+  "tags": [
+   "es",
+   "water"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/waterES.png"
+ },
+ {
+  "id": "kenney-isometric-roads/waterN",
+  "tags": [
+   "water"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/waterN.png"
+ },
+ {
+  "id": "kenney-isometric-roads/waterNE",
+  "tags": [
+   "ne",
+   "water"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/waterNE.png"
+ },
+ {
+  "id": "kenney-isometric-roads/waterNW",
+  "tags": [
+   "nw",
+   "water"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/waterNW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/waterS",
+  "tags": [
+   "water"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/waterS.png"
+ },
+ {
+  "id": "kenney-isometric-roads/waterSW",
+  "tags": [
+   "sw",
+   "water"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/waterSW.png"
+ },
+ {
+  "id": "kenney-isometric-roads/waterW",
+  "tags": [
+   "water"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-roads/png/waterW.png"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-a",
+  "tags": [
+   "building"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-a.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-b",
+  "tags": [
+   "building"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-b.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-c",
+  "tags": [
+   "building"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-c.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-d",
+  "tags": [
+   "building"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-d.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-e",
+  "tags": [
+   "building"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-e.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-f",
+  "tags": [
+   "building"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-f.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-g",
+  "tags": [
+   "building"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-g.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-h",
+  "tags": [
+   "building"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-h.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-i",
+  "tags": [
+   "building"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-i.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-j",
+  "tags": [
+   "building"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-j.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-k",
+  "tags": [
+   "building"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-k.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-l",
+  "tags": [
+   "building"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-l.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-m",
+  "tags": [
+   "building"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-m.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-n",
+  "tags": [
+   "building"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-n.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-skyscraper-a",
+  "tags": [
+   "building",
+   "skyscraper"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-skyscraper-a.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-skyscraper-b",
+  "tags": [
+   "building",
+   "skyscraper"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-skyscraper-b.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-skyscraper-c",
+  "tags": [
+   "building",
+   "skyscraper"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-skyscraper-c.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-skyscraper-d",
+  "tags": [
+   "building",
+   "skyscraper"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-skyscraper-d.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/building-skyscraper-e",
+  "tags": [
+   "building",
+   "skyscraper"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/building-skyscraper-e.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/detail-awning-wide",
+  "tags": [
+   "awning",
+   "detail",
+   "wide"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/detail-awning-wide.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/detail-awning",
+  "tags": [
+   "awning",
+   "detail"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/detail-awning.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/detail-overhang-wide",
+  "tags": [
+   "detail",
+   "overhang",
+   "wide"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/detail-overhang-wide.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/detail-overhang",
+  "tags": [
+   "detail",
+   "overhang"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/detail-overhang.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/detail-parasol-a",
+  "tags": [
+   "detail",
+   "parasol"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/detail-parasol-a.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/detail-parasol-b",
+  "tags": [
+   "detail",
+   "parasol"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/detail-parasol-b.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/low-detail-building-a",
+  "tags": [
+   "building",
+   "detail",
+   "low"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/low-detail-building-a.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/low-detail-building-b",
+  "tags": [
+   "building",
+   "detail",
+   "low"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/low-detail-building-b.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/low-detail-building-c",
+  "tags": [
+   "building",
+   "detail",
+   "low"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/low-detail-building-c.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/low-detail-building-d",
+  "tags": [
+   "building",
+   "detail",
+   "low"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/low-detail-building-d.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/low-detail-building-e",
+  "tags": [
+   "building",
+   "detail",
+   "low"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/low-detail-building-e.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/low-detail-building-f",
+  "tags": [
+   "building",
+   "detail",
+   "low"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/low-detail-building-f.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/low-detail-building-g",
+  "tags": [
+   "building",
+   "detail",
+   "low"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/low-detail-building-g.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/low-detail-building-h",
+  "tags": [
+   "building",
+   "detail",
+   "low"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/low-detail-building-h.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/low-detail-building-i",
+  "tags": [
+   "building",
+   "detail",
+   "low"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/low-detail-building-i.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/low-detail-building-j",
+  "tags": [
+   "building",
+   "detail",
+   "low"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/low-detail-building-j.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/low-detail-building-k",
+  "tags": [
+   "building",
+   "detail",
+   "low"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/low-detail-building-k.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/low-detail-building-l",
+  "tags": [
+   "building",
+   "detail",
+   "low"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/low-detail-building-l.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/low-detail-building-m",
+  "tags": [
+   "building",
+   "detail",
+   "low"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/low-detail-building-m.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/low-detail-building-n",
+  "tags": [
+   "building",
+   "detail",
+   "low"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/low-detail-building-n.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/low-detail-building-wide-a",
+  "tags": [
+   "building",
+   "detail",
+   "low",
+   "wide"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/low-detail-building-wide-a.glb"
+ },
+ {
+  "id": "kenney-city-kit-commercial/low-detail-building-wide-b",
+  "tags": [
+   "building",
+   "detail",
+   "low",
+   "wide"
+  ],
+  "style": "kenney-3d",
+  "kind": "mesh-3d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-city-kit-commercial/Models/GLB format/low-detail-building-wide-b.glb"
+ }
+]

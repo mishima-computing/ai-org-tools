@@ -1,0 +1,5 @@
+# Org Tools — raw asset binaries are fetched on demand (ingest_kenney.py); only the catalog is tracked
+tools/graphicist/assets/_dl/
+tools/graphicist/assets/kenney-*/
+__pycache__/
+*.pyc

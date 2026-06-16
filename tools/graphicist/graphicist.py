@@ -50,6 +50,18 @@ class Library:
     def __init__(self, assets=()):
         self._by_id = {a.id: a for a in assets}
 
+    @classmethod
+    def from_catalog(cls, path):
+        """Load held assets from a catalog (e.g. assets/catalog.json produced by ingest_kenney.py).
+        The catalog carries provenance + license, so rung-1/2 stays grounded and auditable."""
+        import json
+        from pathlib import Path as _P
+        rows = json.loads(_P(path).read_text(encoding="utf-8"))
+        return cls(Asset(id=r["id"], tags=frozenset(r["tags"]), style=r["style"],
+                         provenance=r.get("provenance", "downloaded"),
+                         data={"path": r.get("path"), "license": r.get("license"),
+                               "source": r.get("source"), "kind": r.get("kind")}) for r in rows)
+
     def add(self, a: Asset):
         self._by_id[a.id] = a
 
