@@ -13,8 +13,8 @@ import sys
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
-sys.path.insert(0, str(HERE))
-import graphicist as g  # noqa: E402
+sys.path.insert(0, str(HERE.parent / "core"))
+import core as g  # noqa: E402
 
 STYLE = "kenney-iso-2d"
 TW = 100                    # tile width; iso diamond is 2:1

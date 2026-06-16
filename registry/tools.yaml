@@ -1,18 +1,24 @@
-# Org Tools registry — the growing collection of carrier-agnostic capabilities the AI Org operates.
-# Editions vendor this repo; the controller calls a tool's entrypoint DIRECTLY (a deterministic
-# workflow call, not via MCP — see docs/decisions/ADR-0001). Add a tool by adding an entry here.
+# Corps — the AI Org's media-production umbrella (pronounced "core"; named after the Beatles' Apple
+# Corps multimedia company — see docs/decisions/ADR-0001). `core` is the shared, medium-agnostic engine
+# (the produce ladder / Library / GATE-JUDGE / capture); each entry below is a DIVISION that plugs its
+# own providers (the revolver chambers) into core. The controller calls a division's entrypoint DIRECTLY
+# (a deterministic workflow call, not via MCP). Add a division by adding an entry here.
 version: 1
-tools:
+engine:
+  id: core
+  path: tools/core/core.py
+  summary: medium-agnostic produce ladder (reuse -> explicit-generate -> synthesize), GATE/JUDGE, capture-as-asset
+divisions:
   - id: graphicist
-    kind: graphics
-    status: skeleton            # skeleton -> the ladder + capture + verification regimes are wired; rungs 3/4 are hooks
+    medium: graphics
+    status: skeleton            # ladder + capture + verification wired; PIL providers live; Blender/gen-image are hooks
     entrypoint: tools/graphicist/graphicist.py::produce
-    summary: >-
-      Produce a graphic for a brief, asset-first; generate only as a last resort and capture the result
-      as a new asset so generation self-shrinks. The asset is the source of truth, the image a view.
-    policy: asset-first-ladder  # 1 apply -> 2 process -> 3 procedural(deterministic) -> 4 generate(last)
-    capture: capture-as-asset
+    providers:
+      assets: Kenney CC0 catalog (tools/graphicist/assets/catalog.json)
+      explicit: PIL (rungs 2-3, GATE); Blender bpy (3D source build) — hook
+      synthesized: gen-image (rung 4, JUDGE) — hook, last resort
     verification:
-      deterministic: GATE       # rungs 1-3: reproducible, traceable
-      generative: JUDGE         # rung 4: stefan aesthetic + brief fidelity + grounding audit (why no asset)
+      explicit: GATE            # reuse + explicit generation: reproducible, traceable
+      synthesized: JUDGE        # gen-AI: stefan aesthetic + brief fidelity + grounding audit
     adr: docs/decisions/ADR-0001-org-tools-and-the-graphicist.md
+  # - id: composer  (medium: music; source = MIDI/score/samples; view = synth (GATE) / gen-audio (JUDGE))  — future

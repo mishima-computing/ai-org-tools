@@ -33,30 +33,47 @@ growing collection of carrier-agnostic capabilities** the editions operate. A to
 carrier drives it, so it must not live inside an edition. Org Tools gets a **registry/manifest** so the
 collection scales to N tools.
 
-### 2. The first Org Tool is the **graphicist** — operated, not a passive library
+### 2. The media-production capability is **Corps** — a `core` engine + a division per medium
 
-Not "hold an asset library" (passive state) but "have an operable graphics worker" (active capability):
-**asset + processing + application**, like a studio's art department commanded by the engineering org.
+Not "hold an asset library" (passive state) but "operate media producers" (active capability). Name it
+**Corps** — pronounced *"core"*, after the Beatles' **Apple Corps** (their multimedia company: Apple
+Records / Films / Electronics / Publishing — one umbrella, a division per medium). We use only *"Corps"*
+(no "Apple"): the trademark is theirs, the idea is fair game. The homophone is apt — the shared engine
+*is* the core.
 
-Its policy is a **fallback ladder — generation is the LAST resort:**
+- **`core`** — the medium-agnostic ENGINE: the produce ladder, the Library, GATE/JUDGE, capture-as-asset.
+  It knows nothing about graphics; a division plugs in its own providers and brief vocabulary.
+- **divisions** specialise it: **`graphicist`** (graphics) first, **`composer`** (music) next.
 
-1. apply an existing asset as-is;
-2. process/edit an asset to fit (restyle / recolor / retopo — deterministic);
-3. generate procedurally with deterministic tools (Blender `bpy`, Houdini, PCG, WFC);
-4. **only when none of the above can cover it → image generation (generative AI).**
+**Two layers.** The SOURCE (held assets, or a structured model built with Blender/rules) is reusable and
+grounded; the VIEW (the flat image/audio) is a disposable projection. PIL, gen-AI, Blender, the asset
+library are **not** distinct architecture — they are interchangeable **providers**, the chambers of a
+revolver `core` rotates through.
 
-Two further rules keep generation grounded and shrinking:
+**The asset-first ladder** (descend only when the rung above can't cover the brief):
 
-- **capture-as-asset**: a generated output is captured back into the library, so the same gap is covered
-  by assets next time — **generation self-shrinks toward zero** as the library accretes (settledness for
-  graphics; cf. ADR-0005);
-- **two-regime verification**: the deterministic asset path (rungs 1–3) is checked by a **GATE**
-  (reproducible, traceable); the generative path (rung 4) is judged by **stefan** (aesthetic + brief
-  fidelity) **plus a grounding audit** (why no asset covered it; is the image a projection of a grounded
-  source, not a free hallucination). The asset is the source of truth; the image is a disposable view.
+1. **reuse-apply** — a held asset matches as-is (GATE);
+2. **reuse-process** — edit a held asset to fit (GATE);
+3. **build+render** — source built from rules + view rendered **explicitly** (PIL / Blender) (GATE);
+4. **synthesize** — view **synthesized** by gen-AI, conditioned on the brief; last resort (JUDGE).
 
-The new generative/perceptual "flavour" is thereby **quarantined inside one tool + stefan**; the
-deterministic controller core is untouched.
+Rungs 3 and 4 are *both* generation — they differ only in **explicit vs synthesized** (you write the
+rules → reproducible/auditable, vs a model supplies unspecified content from priors). That is a
+*verification* difference, not a structural one: PIL and gen-AI are the same structural role (produce the
+view). The real structural contrast is **source-builders (Blender / scene / assets) vs view-producers
+(PIL / gen-AI)** — which is exactly "asset = source of truth, image = disposable view".
+
+Two rules keep it grounded and shrinking:
+
+- **capture-as-asset** — any generated output is captured into the library, so the same gap is covered by
+  an asset next time and **synthesis self-shrinks toward zero** (settledness for media; cf. ADR-0005);
+- **two-regime verification** — the explicit path (rungs 1–3) is a **GATE** (reproducible, traceable);
+  the synthesized path (rung 4) is judged by **stefan** (aesthetic + brief fidelity) **plus a grounding
+  audit** (why no asset covered it; is the view a projection of a grounded source, not a free
+  hallucination).
+
+The generative/perceptual "flavour" is thereby **quarantined inside the synthesize rung + stefan**; the
+deterministic controller core and the explicit pipeline are untouched.
 
 ### 3. The controller calls Org Tools **directly** — not via MCP
 

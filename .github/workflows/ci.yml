@@ -11,15 +11,23 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: graphicist self-test (the ladder runs)
-        run: python tools/graphicist/graphicist.py
-      - name: registry is valid YAML and lists entrypoints that exist
+      - name: install providers
+        run: pip install Pillow PyYAML
+      - name: core engine self-test (the ladder runs)
+        run: python tools/core/core.py
+      - name: graphicist division (core + graphics providers)
+        run: |
+          python tools/graphicist/ingest_kenney.py   # fetch Kenney CC0 + regenerate the catalog
+          python tools/graphicist/graphicist.py       # asset-first ladder on real assets
+          python tools/graphicist/procgen_pil.py       # PIL explicit-generate is deterministic
+      - name: registry is valid YAML and division entrypoints exist
         run: |
           python - <<'PY'
-          import re, pathlib, sys
-          txt = pathlib.Path("registry/tools.yaml").read_text(encoding="utf-8")
-          eps = re.findall(r"entrypoint:\s*([^\s:]+)::", txt)
+          import yaml, pathlib
+          reg = yaml.safe_load(pathlib.Path("registry/tools.yaml").read_text())
+          eps = [d["entrypoint"].split("::")[0] for d in reg["divisions"]]
+          eps.append(reg["engine"]["path"])
           missing = [e for e in eps if not pathlib.Path(e).exists()]
-          assert not missing, f"registry entrypoints missing: {missing}"
+          assert not missing, f"registry paths missing: {missing}"
           print("registry ok:", eps)
           PY

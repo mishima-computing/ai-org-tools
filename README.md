@@ -10,43 +10,56 @@ capabilities* the editions operate** — built once here, not duplicated per edi
 AI Org (umbrella)
 ├── AI Org codex    ── carrier = codex     ┐  WHO carries
 ├── AI Org claude   ── carrier = claude    ┘
-└── Org Tools (this repo) ── graphicist, … ── WHAT capabilities (carrier-agnostic, shared, growing)
+└── Org Tools (this repo) ── Corps, …      ── WHAT capabilities (carrier-agnostic, shared, growing)
 ```
 
-See **[ADR-0001](docs/decisions/ADR-0001-org-tools-and-the-graphicist.md)** for the full decision and
-its grounding (MCP, Anthropic's workflow-vs-agent distinction, ChatDev, blender-mcp, Scenario).
+## Corps — media production (pronounced "core")
+
+**Corps** is the AI Org's media-production capability. The name is pronounced *"core"* — after the
+Beatles' **Apple Corps** (their multimedia company: Apple Records / Films / Electronics / Publishing),
+which is exactly this shape: one umbrella, a division per medium. We use only *"Corps"* (no "Apple") —
+the trademark is theirs; the idea is fair game.
+
+```
+Corps
+├── core         ── the medium-agnostic ENGINE: the produce ladder, Library, GATE/JUDGE, capture-as-asset
+├── graphicist   ── division: graphics  (Kenney CC0 assets, PIL, Blender, gen-image)
+└── composer     ── division: music      (samples/MIDI, synth, gen-audio)  — future
+```
+
+Two layers: the **SOURCE** (held assets, or a structured model built with Blender/rules) is reusable and
+grounded; the **VIEW** (the flat image/audio) is a disposable projection of it. PIL / gen-AI / Blender /
+the asset library are not distinct architecture — they are interchangeable **providers**, the chambers
+of a revolver `core` rotates through.
+
+**The asset-first ladder** (descend only when the rung above can't cover the brief):
+
+| rung | what | regime |
+|------|------|--------|
+| 1 reuse-apply | a held asset matches as-is | GATE |
+| 2 reuse-process | edit a held asset to fit | GATE |
+| 3 build+render | source built from rules + view rendered **explicitly** (PIL / Blender) | GATE |
+| 4 synthesize | view **synthesized** by gen-AI, conditioned on the brief; last resort | JUDGE |
+
+Rungs 1-3 are **explicit** (you specify it → reproducible, auditable); rung 4 is **synthesized** (a model
+supplies unspecified content from priors → judged for fidelity/aesthetic + a grounding audit of *why* no
+asset covered it). Any output is **captured as an asset**, so the gap closes and synthesis shrinks toward
+zero. The same shape produces a `composer` (music) division — see
+[ADR-0001](docs/decisions/ADR-0001-org-tools-and-the-graphicist.md).
 
 ## How editions use it (no MCP)
 
-The controller is a **deterministic orchestrator** — it knows which tool to call and what to pass, so it
-calls a tool's entrypoint **directly** (Anthropic "workflow" = predefined code paths). That is *not*
-dynamic LLM tool-use, so **MCP is not needed internally** (it is reserved as an optional external face).
+The controller is a **deterministic orchestrator** — it knows which division to call and what to pass,
+so it calls a division's `produce()` **directly** (Anthropic "workflow" = predefined code paths). That
+is *not* dynamic LLM tool-use, so **MCP is not needed internally** (it is an optional external face).
 
-Editions stay self-contained by **vendoring** this repo, with CI checking the copy hasn't drifted from
-canonical:
+Editions stay self-contained by **vendoring** this repo, with CI checking the copy hasn't drifted:
 
 ```bash
 python sync/vendor.py sync  ../ai-org-bootstrap-codex     # canonical -> edition/vendor/ai-org-tools/
 python sync/vendor.py check ../ai-org-bootstrap-codex     # exit 1 on drift (CI gate)
 ```
 
-Single source of truth (here) × self-contained editions (in-repo, offline box/dogfood) × drift detection.
-
-## Tools
-
-Registered in [`registry/tools.yaml`](registry/tools.yaml).
-
-### graphicist (#1)
-
-Produce a graphic for a brief, **asset-first**, generating **only as a last resort** and capturing the
-result as a new asset so generation self-shrinks. The asset is the source of truth; the image is a
-disposable view.
-
-Ladder: `1 apply → 2 process → 3 procedural (deterministic) → 4 generate (last resort)`. Rungs 1-3 are
-**GATE**-verified (reproducible); rung 4 is **JUDGE**-verified (stefan aesthetic + brief fidelity +
-grounding audit) and **captured-as-asset**. `tools/graphicist/graphicist.py` is a runnable skeleton with
-a self-test; rungs 3/4 are injectable hooks (deterministic procedural gen; generative AI).
-
-> Grounded, not invented: an LLM operating Blender + an asset library + generation already exists in the
-> wild ([blender-mcp](https://github.com/ahujasid/blender-mcp)); our contribution is the *discipline* —
-> the asset-first ladder, capture-as-asset, and GATE/JUDGE verification.
+Registered divisions live in [`registry/tools.yaml`](registry/tools.yaml). `tools/graphicist/` already
+runs the ladder on real Kenney CC0 tiles (`compose_demo.py`); generation never fires when the library
+covers the brief.
