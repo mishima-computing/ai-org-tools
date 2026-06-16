@@ -27,6 +27,10 @@ PACKS = [
     {"id": "kenney-city-kit-commercial", "kind": "mesh-3d", "style": "kenney-3d", "ext": "glb",
      "url": "https://kenney.nl/media/pages/assets/city-kit-commercial/a742d900eb-1753115042/"
             "kenney_city-kit-commercial_2.1.zip"},
+    # 2D iso building tiles (CC0). url="" -> placed manually (Kenney's page blocks automated fetch);
+    # download() skips it and the catalog picks up whatever is present locally.
+    {"id": "kenney-isometric-buildings", "kind": "sprite-2d", "style": "kenney-iso-2d", "ext": "png",
+     "url": ""},
 ]
 
 
@@ -38,6 +42,8 @@ def _tags(stem: str) -> list[str]:
 def download():
     (ASSETS / "_dl").mkdir(parents=True, exist_ok=True)
     for p in PACKS:
+        if not p.get("url"):          # manually-placed pack -> use whatever is present locally
+            continue
         dst = ASSETS / p["id"]
         if dst.exists():
             continue

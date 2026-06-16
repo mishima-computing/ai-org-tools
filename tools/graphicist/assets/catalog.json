@@ -1773,5 +1773,1682 @@
   "license": "CC0-1.0",
   "source": "kenney.nl",
   "path": "assets/kenney-city-kit-commercial/Models/GLB format/low-detail-building-wide-b.glb"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_000",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_000.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_001",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_001.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_002",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_002.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_003",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_003.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_004",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_004.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_005",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_005.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_006",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_006.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_007",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_007.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_008",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_008.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_009",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_009.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_010",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_010.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_011",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_011.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_012",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_012.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_013",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_013.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_014",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_014.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_015",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_015.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_016",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_016.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_017",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_017.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_018",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_018.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_019",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_019.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_020",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_020.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_021",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_021.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_022",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_022.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_023",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_023.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_024",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_024.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_025",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_025.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_026",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_026.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_027",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_027.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_028",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_028.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_029",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_029.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_030",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_030.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_031",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_031.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_032",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_032.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_033",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_033.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_034",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_034.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_035",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_035.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_036",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_036.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_037",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_037.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_038",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_038.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_039",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_039.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_040",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_040.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_041",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_041.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_042",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_042.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_043",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_043.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_044",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_044.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_045",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_045.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_046",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_046.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_047",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_047.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_048",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_048.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_049",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_049.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_050",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_050.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_051",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_051.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_052",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_052.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_053",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_053.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_054",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_054.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_055",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_055.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_056",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_056.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_057",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_057.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_058",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_058.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_059",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_059.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_060",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_060.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_061",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_061.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_062",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_062.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_063",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_063.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_064",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_064.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_065",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_065.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_066",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_066.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_067",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_067.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_068",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_068.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_069",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_069.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_070",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_070.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_071",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_071.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_072",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_072.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_073",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_073.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_074",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_074.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_075",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_075.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_076",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_076.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_077",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_077.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_078",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_078.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_079",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_079.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_080",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_080.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_081",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_081.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_082",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_082.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_083",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_083.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_084",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_084.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_085",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_085.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_086",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_086.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_087",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_087.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_088",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_088.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_089",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_089.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_090",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_090.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_091",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_091.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_092",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_092.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_093",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_093.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_094",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_094.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_095",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_095.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_096",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_096.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_097",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_097.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_098",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_098.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_099",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_099.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_100",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_100.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_101",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_101.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_102",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_102.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_103",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_103.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_104",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_104.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_105",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_105.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_106",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_106.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_107",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_107.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_108",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_108.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_109",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_109.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_110",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_110.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_111",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_111.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_112",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_112.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_113",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_113.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_114",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_114.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_115",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_115.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_116",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_116.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_117",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_117.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_118",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_118.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_119",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_119.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_120",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_120.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_121",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_121.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_122",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_122.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_123",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_123.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_124",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_124.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_125",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_125.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_126",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_126.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_127",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_127.png"
+ },
+ {
+  "id": "kenney-isometric-buildings/buildingTiles_128",
+  "tags": [
+   "building",
+   "tiles"
+  ],
+  "style": "kenney-iso-2d",
+  "kind": "sprite-2d",
+  "provenance": "downloaded",
+  "license": "CC0-1.0",
+  "source": "kenney.nl",
+  "path": "assets/kenney-isometric-buildings/png/buildingTiles_128.png"
  }
 ]
