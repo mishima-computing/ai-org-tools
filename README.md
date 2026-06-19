@@ -13,6 +13,19 @@ AI Org (umbrella)
 └── Org Tools (this repo) ── Corps, …      ── WHAT capabilities (carrier-agnostic, shared, growing)
 ```
 
+## AI Org Codex — architecture
+
+The Codex edition is now a **complete autonomous builder**: a GOAL goes in, PRs come out. Three layers
+(carrier → dialectic → autonomous builder), the two-axis Splitter, the shared observability stream, and
+the Shagiri host boundary are written up in full, with diagrams, here:
+
+**→ [`docs/ai-org-codex-architecture.md`](docs/ai-org-codex-architecture.md)**
+
+```
+GOAL → Splitter (task DAG) → Frontier (ready leaves) → Dialectic (10-agent, per leaf) → merge → PR
+                    ▲ split-on-convergence-failure (recursion) ┘
+```
+
 ## Corps — media production (pronounced "core")
 
 **Corps** is the AI Org's media-production capability. The name is pronounced *"core"* — after the
