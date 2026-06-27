@@ -22,3 +22,19 @@ divisions:
       synthesized: JUDGE        # gen-AI: stefan aesthetic + brief fidelity + grounding audit
     adr: docs/decisions/ADR-0001-org-tools-and-the-graphicist.md
   # - id: composer  (medium: music; source = MIDI/score/samples; view = synth (GATE) / gen-audio (JUDGE))  — future
+
+# Transforms — deterministic CODE-transform tools. A SEPARATE family from the Corps media DIVISIONS above:
+# these are not controller-called media producers but engine-resident deterministic code transforms that the AI
+# Org's decomposition routes to IN PLACE OF the LLM implementer (operability_scan TransformKindScan ->
+# deterministic_transform_tools). The engine is self-contained (calls them directly); this catalog tracks the
+# growing transform surface. Each is an untrusted generator -> ALWAYS Linon-audited; deterministic self_verify is
+# circular and never substitutes for Linon (ADR-0009 2026-06-27 addendum).
+transforms:
+  engine_module: ai-org-bootstrap-codex/scripts/deterministic_transform_tools.py   # direct-call: can_handle/apply
+  verification: ALWAYS Linon (untrusted generator); skip Linon only where a pre-existing, tool-unmodified, relevant repo test covers the touched files
+  tools:
+    - { id: rename-codemod,   kind: rename,    status: live (slice-1), effect: "reference closure (symbol/import/module); real namespace excluded by binding resolution; string-literal markers -> Linon" }
+    - { id: move-relocate,    kind: move,      status: live (slice-2), effect: "file/module/symbol move + import follow" }
+    - { id: import-hygiene,   kind: import,    status: live (slice-2), effect: "sort + remove-unused + add-missing" }
+    - { id: format-lintfix,   kind: format,    status: live (slice-2), effect: "repo formatter/linter-fixer; Linon skipped only where repo tests cover the touched files" }
+    - { id: signature-change, kind: hybrid,    status: live (slice-2), effect: "LLM picks the new signature; tool updates all call sites" }
